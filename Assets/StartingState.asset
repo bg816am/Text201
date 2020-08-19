@@ -18,9 +18,14 @@ MonoBehaviour:
     past checking in...
 
 
+
     What do you do?
+
 
     1. Look around the room?
 
     2.Get
     out of the room?'
+  nextStates:
+  - {fileID: 11400000, guid: 7532cc0d2aba54f099ce22cc78142a76, type: 2}
+  - {fileID: 11400000, guid: ac63ce44ef6af4d0a98f06ad83c7c03a, type: 2}
