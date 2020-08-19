@@ -12,5 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2adeb22eb098b4481ad68873fb8a80fc, type: 3}
   m_Name: RoomTwo
   m_EditorClassIdentifier: 
-  storyText: I am in room 2
-  nextStates: []
+  storyText: 'You drawn the chain lock and step out into the hallway. The hallway
+    is barely lit,  and smells musty. There are many rooms going both up and down
+    the hallway. You can not hear any noise coming in either direction, just a steady
+    mechanical hum of nothingness. There is a light on down to the right, maybe a
+    front desk?
+
+
+    What next?
+
+    1. Head towards the front desk
+
+    2. Go back
+    in your room.
+
+    3.Look around down other way of the hallway.'
+  nextStates:
+  - {fileID: 11400000, guid: c37938315dd8b43368bf4d3a49fd8a5e, type: 2}
+  - {fileID: 11400000, guid: 7532cc0d2aba54f099ce22cc78142a76, type: 2}

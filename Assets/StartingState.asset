@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2adeb22eb098b4481ad68873fb8a80fc, type: 3}
   m_Name: StartingState
   m_EditorClassIdentifier: 
-  storyText: 'You wake up in your room, nursing a headache. You remember the party,
+  storyText: 'You wake up in a  room, nursing a headache. You remember the party,
     bits and pieces of it at least. You knew you couldn''t make it home and you checked
-    in here at the El Dorado Hotel. Looking around the room you remember nothing
-    past checking in...
+    in here at the El Dorado Motel. Looking around the room you remember nothing
+    other than checking in...
 
 
 
@@ -24,8 +24,8 @@ MonoBehaviour:
 
     1. Look around the room?
 
-    2.Get
-    out of the room?'
+    2.
+    Get out of the room?'
   nextStates:
   - {fileID: 11400000, guid: 7532cc0d2aba54f099ce22cc78142a76, type: 2}
   - {fileID: 11400000, guid: ac63ce44ef6af4d0a98f06ad83c7c03a, type: 2}

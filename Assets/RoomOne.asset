@@ -12,5 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2adeb22eb098b4481ad68873fb8a80fc, type: 3}
   m_Name: RoomOne
   m_EditorClassIdentifier: 
-  storyText: I am in room one
-  nextStates: []
+  storyText: 'You look around. The shades are drawn, its dark, but it looks just
+    like a cheap motel. No TV, one creaky bed, a night stand, and a desk. No light
+    comes in from the outside, must still be late. The only light is from the table
+    lamp that you figure you must of left on. You did, didn''t you?
+
+
+    Now what
+    to do?
+
+    1. Check out the night stand.
+
+    2. Take a look at the desk.
+
+    3.
+    Leave the room.'
+  nextStates:
+  - {fileID: 11400000, guid: ac63ce44ef6af4d0a98f06ad83c7c03a, type: 2}
+  - {fileID: 11400000, guid: c37938315dd8b43368bf4d3a49fd8a5e, type: 2}
