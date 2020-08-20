@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2adeb22eb098b4481ad68873fb8a80fc, type: 3}
-  m_Name: RoomTwo
+  m_Name: Hallway
   m_EditorClassIdentifier: 
   storyText: 'You drawn the chain lock and step out into the hallway. The hallway
     is barely lit,  and smells musty. There are many rooms going both up and down
@@ -30,3 +30,4 @@ MonoBehaviour:
   nextStates:
   - {fileID: 11400000, guid: c37938315dd8b43368bf4d3a49fd8a5e, type: 2}
   - {fileID: 11400000, guid: 7532cc0d2aba54f099ce22cc78142a76, type: 2}
+  - {fileID: 11400000, guid: 103ee3ceeb58e4ed2bc0d6390c6815bd, type: 2}
