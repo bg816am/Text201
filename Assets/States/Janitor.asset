@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2adeb22eb098b4481ad68873fb8a80fc, type: 3}
+  m_Name: Janitor
+  m_EditorClassIdentifier: 
+  storyText: 'He has jeans, a blue mechinic shirt, a name patch in the corner, but
+    no name embroidered on it. He has a huge ring of keys on his belt, and a tool
+    belt with the usuals on it, hammer, screwdriver, etc He says to you in an uninterested
+    tone
+
+    "That door hasn''t worked in a long time, probably best to check in
+    at the front" And starts walking down the hall.
+
+
+    Do you:
+
+    1. Walk down
+    the hallway
+
+    2. Stop him and ask some questions'
+  nextStates: []

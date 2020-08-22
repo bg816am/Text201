@@ -14,5 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: "Welcome to the El Dorado Motel choose your own adventure.\n\nSelect
     the correponding numbers to make your choice. \nPress Q at any time to quit\n\nPick
-    your choices carefully! Can you escape and find out what happened?"
-  nextStates: []
+    your choices carefully! Can you escape and find out what happened?\n\nPress 1
+    to start..."
+  nextStates:
+  - {fileID: 11400000, guid: c37938315dd8b43368bf4d3a49fd8a5e, type: 2}

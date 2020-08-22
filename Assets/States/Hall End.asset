@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2adeb22eb098b4481ad68873fb8a80fc, type: 3}
+  m_Name: Hall End
+  m_EditorClassIdentifier: 
+  storyText: You go to the exit sign, hoping to get out of this strange motel. You
+    push on the emergency handle, but the door doesn't move. Not at all, not even
+    wiggle. It's almost as it isn't a door. You turn around and suddenly you see
+    another person, very close to you...
+  nextStates: []
